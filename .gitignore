@@ -1,3 +1,7 @@
+<<<<<<< HEAD
+=======
+# ---> TeX
+>>>>>>> be99866a49c1a7c8d729e26ff47dca538667e5a3
 ## Core latex/pdflatex auxiliary files:
 *.aux
 *.lof
@@ -6,10 +10,13 @@
 *.fls
 *.out
 *.toc
+<<<<<<< HEAD
 *.fmt
 *.fot
 *.cb
 *.cb2
+=======
+>>>>>>> be99866a49c1a7c8d729e26ff47dca538667e5a3
 
 ## Intermediate documents:
 *.dvi
@@ -17,7 +24,11 @@
 # these rules might exclude image files for figures etc.
 # *.ps
 # *.eps
+<<<<<<< HEAD
 *.pdf
+=======
+# *.pdf
+>>>>>>> be99866a49c1a7c8d729e26ff47dca538667e5a3
 
 ## Bibliography auxiliary files (bibtex/biblatex/biber):
 *.bbl
@@ -36,6 +47,11 @@
 *.pdfsync
 
 ## Auxiliary and intermediate files from other packages:
+<<<<<<< HEAD
+=======
+
+
+>>>>>>> be99866a49c1a7c8d729e26ff47dca538667e5a3
 # algorithms
 *.alg
 *.loa
@@ -51,6 +67,7 @@ acs-*.bib
 *.snm
 *.vrb
 
+<<<<<<< HEAD
 # cprotect
 *.cpt
 
@@ -60,6 +77,10 @@ acs-*.bib
 #(r)(e)ledmac/(r)(e)ledpar
 *.end
 *.?end
+=======
+#(e)ledmac/(e)ledpar
+*.end
+>>>>>>> be99866a49c1a7c8d729e26ff47dca538667e5a3
 *.[1-9]
 *.[1-9][0-9]
 *.[1-9][0-9][0-9]
@@ -79,7 +100,10 @@ acs-*.bib
 *.glg
 *.glo
 *.gls
+<<<<<<< HEAD
 *.glsdefs
+=======
+>>>>>>> be99866a49c1a7c8d729e26ff47dca538667e5a3
 
 # gnuplottex
 *-gnuplottex-*
@@ -89,7 +113,10 @@ acs-*.bib
 
 # knitr
 *-concordance.tex
+<<<<<<< HEAD
 # TODO Comment the next line if you want to keep your tikz graphics files
+=======
+>>>>>>> be99866a49c1a7c8d729e26ff47dca538667e5a3
 *.tikz
 *-tikzDictionary
 
@@ -104,8 +131,11 @@ acs-*.bib
 
 # minitoc
 *.maf
+<<<<<<< HEAD
 *.mlf
 *.mlt
+=======
+>>>>>>> be99866a49c1a7c8d729e26ff47dca538667e5a3
 *.mtc
 *.mtc[0-9]
 *.mtc[1-9][0-9]
@@ -133,6 +163,7 @@ _minted*
 *.sympy
 sympy-plots-for-*.tex/
 
+<<<<<<< HEAD
 # pdfcomment
 *.upa
 *.upb
@@ -144,6 +175,8 @@ pythontex-files-*/
 # thmtools
 *.loe
 
+=======
+>>>>>>> be99866a49c1a7c8d729e26ff47dca538667e5a3
 # TikZ & PGF
 *.dpth
 *.md5
@@ -155,6 +188,7 @@ pythontex-files-*/
 # xindy
 *.xdy
 
+<<<<<<< HEAD
 # xypic precompiled matrices
 *.xyc
 
@@ -166,10 +200,13 @@ pythontex-files-*/
 TSWLatexianTemp*
 
 ## Editors:
+=======
+>>>>>>> be99866a49c1a7c8d729e26ff47dca538667e5a3
 # WinEdt
 *.bak
 *.sav
 
+<<<<<<< HEAD
 # Texpad
 .texpadtmp
 
@@ -178,3 +215,5 @@ TSWLatexianTemp*
 
 # KBibTeX
 *~[0-9]*
+=======
+>>>>>>> be99866a49c1a7c8d729e26ff47dca538667e5a3
